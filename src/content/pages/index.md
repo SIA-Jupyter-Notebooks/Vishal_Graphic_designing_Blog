@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Vishal Rathoure
 tagline: Graphic Designer
-featuredImage: /assets/2.jpg
+featuredImage: https://res.cloudinary.com/secure-intelligent-agent/image/upload/v1623741247/S.I.A%20%27s%20Web%20apps%20Image%20---%20Landing%20and%20Home/2_w14haj.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
