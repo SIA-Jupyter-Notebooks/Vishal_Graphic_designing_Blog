@@ -10,11 +10,6 @@
 
 A starter to launch your blazing fast personal website and a blog, Built with [Gatsby][gatsby] and [Netlify CMS][netlifycms].
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
-
-Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
-
-[![Gatsby Starter Foundation Screenshot](static/assets/gatsby-starter-foundation-light-mode.jpg)](https://stackrole.com/jamstack/foundation/)
 
 ## 👌 Features
 
@@ -106,7 +101,6 @@ gatsby develop
 
 Your site is now running at `http://localhost:8000`!
 
-_Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
 
 Open the `gatsby-starter-foundation` directory in your code editor of choice and edit. Save your changes and the browser will update in real time!
 
